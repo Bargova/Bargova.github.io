@@ -30,6 +30,6 @@ nav{
 }
 .main{
     width: 100%;
-    height: calc{100% - 60%};
-    background: url(../img/Boy.png) 90% 100%/auto 85% no-repeat, url(../img/bg_Fon.ipg) center/cover no-repeat;
+    height: calc(100% - 60px)
+    background: url(../img/Boy.png) 90% 100%/auto 85% no-repeat, url(../img/bg_Fon.jpg) center/cover no-repeat;
 }
