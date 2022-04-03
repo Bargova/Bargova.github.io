@@ -59,3 +59,26 @@ nav{
     padding: 0px 16px;
     margin: 50px 14px 0px 14px;
 }
+.main_info h2{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 600;
+    color: #263244;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+.main_info{
+    margin-top: 30px;
+    text-align: center;
+    background: url(../img/Cherta%201.png) 50% 100%/200px no-repeat;
+    height: 200px;
+    margin: 20px 20% 35px 25%;
+    color: #3f495a;
+}.main_info{
+    margin-left: 700px;
+    color: #6f707e;
+    padding: 9px 11px 10px 30px;
+    background: url(../img/Ikonka.png) 10px 9px/auto no-repeat;
+    display: inline-block;
+    
+}
