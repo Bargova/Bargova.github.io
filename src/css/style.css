@@ -60,7 +60,7 @@ nav{
     margin: 50px 14px 0px 14px;
 }
 .main_info h2{
-    margin-top: 100px;
+    margin-top: 70px;
     text-align: center;
     font-weight: 600;
     color: #263244;
@@ -75,10 +75,16 @@ nav{
     margin: 20px 20% 35px 25%;
     color: #3f495a;
 }.main_info{
-    margin-left: 700px;
+    margin-left: 300px;
+    text-align: center;
     color: #6f707e;
     padding: 9px 11px 10px 30px;
-    background: url(../img/Ikonka.png) 10px 9px/auto no-repeat;
     display: inline-block;
+    
+}
+.block p h4{
+    margin-top: 20px;
+    font-size: 10px;
+    color: #79818d;
     
 }
