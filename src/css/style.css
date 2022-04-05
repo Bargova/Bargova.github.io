@@ -70,11 +70,12 @@ nav{
 .main_info{
     margin-top: 30px;
     text-align: center;
-    background: url(../img/Cherta%201.png) 50% 100%/200px no-repeat;
     height: 200px;
-    margin: 20px 20% 35px 25%;
+    margin: 0 auto;
     color: #3f495a;
-}.main_info{
+    display: block;
+}
+.main_info{
     margin-left: 300px;
     text-align: center;
     color: #6f707e;
@@ -83,8 +84,16 @@ nav{
     
 }
 .block p h4{
-    margin-top: 20px;
+    width: 500px;
+    text-align: left;
+    margin: 0 auto;
     font-size: 10px;
-    color: #79818d;
-    
+    color: #79818d;   
+}
+.block p h4{
+    width: 500px;
+    text-align: left;
+    margin: 0 auto;
+    font-size: 10px;
+    color: #79818d;   
 }
