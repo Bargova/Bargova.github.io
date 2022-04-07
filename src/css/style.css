@@ -68,32 +68,49 @@ nav{
     text-transform: uppercase;
 }
 .Cherta{
-    margin-top: 30px;
     text-align: center;
     height: 120px;
     margin: 0 auto;
     color: #3f495a;
     display: block;
+    margin-top: 30px;
 }
+
 .main_info{
     margin-left: 300px;
     text-align: center;
     color: #6f707e;
     padding: 9px 11px 10px 30px;
     display: inline-block;
-    
+    margin-top: 40px;
 }
 .tt{
-    width: 500px;
+    width: 600px;
     text-align: left;
+    text-align: center;
     margin: 0 auto;
     font-size: 10px;
+    padding: 9px 11px 10px 30px;
     color: #79818d;   
 }
 .tt1{
-    width: 500px;
+    width: 600px;
     text-align: left;
+    text-align: center;
     margin: 0 auto;
+    margin-top: 10px;
     font-size: 10px;
+    padding: 9px 11px 10px 30px;
     color: #79818d;   
+} 
+.Rezume{
+  height: 30px;
+    text-align: center;
+    border: 1px solid #6d7682;
+    background: none;
+    border-radius: 2px;
+    color: #6d7682;
+    font-size: 2px;
+    padding: 0px 10px;
+    margin: 20px 4px 0px 4px;  
 }
