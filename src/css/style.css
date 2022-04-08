@@ -77,40 +77,40 @@ nav{
 }
 
 .main_info{
-    margin-left: 300px;
-    text-align: center;
+    margin-left: 180px;
     color: #6f707e;
     padding: 9px 11px 10px 30px;
     display: inline-block;
     margin-top: 40px;
+    text-align: center;
 }
 .tt{
     width: 600px;
-    text-align: left;
     text-align: center;
     margin: 0 auto;
-    font-size: 10px;
-    padding: 9px 11px 10px 30px;
-    color: #79818d;   
+    font-size: 12px;
+    padding: 9px 11px 10px 120px;
+    color: #79818d; 
+    text-align: left;
 }
 .tt1{
     width: 600px;
-    text-align: left;
     text-align: center;
     margin: 0 auto;
     margin-top: 10px;
-    font-size: 10px;
-    padding: 9px 11px 10px 30px;
-    color: #79818d;   
+    font-size: 12px;
+    padding: 9px 11px 10px 120px;
+    color: #79818d; 
+    text-align: left;
 } 
-.Rezume{
-  height: 30px;
+.myinput{
+    height: 30px;
     text-align: center;
     border: 1px solid #6d7682;
     background: none;
     border-radius: 2px;
     color: #6d7682;
     font-size: 2px;
-    padding: 0px 10px;
+    padding: 0px 20px;
     margin: 20px 4px 0px 4px;  
 }
