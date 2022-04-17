@@ -118,7 +118,7 @@ nav{
 .main_works h2{
     padding-top: 100px;
     text-align: center;
-    height: 150px;
+    height: 125px;
     font-size: 23px;
     font-weight: 600;
     color: #263244;
@@ -130,10 +130,18 @@ nav{
     margin-top: 8px;
 }
 .What_can_i_do{
-    padding-top: 180px;
+    padding-top: 160px;
     text-align: center;
     float: left;
-    margin-left: 410px;
-    background: url(../img/nout.png)7% 105pz/auto no-repeat, url(../img/znak.png)32% 110px no-repeat, url(../img/raketa.png)59% 110px 
-    no-repeat,url(../img/gramovon.png)85% 110px no-repeat;
+    margin-left: 410px;  
+}
+.What_can_i_do{
+    float: left;
+    margin-left: 61px;
+    font-size: 16px;
+    padding-right: 75px;
+    font-size: 16px;
+    color: #d07f27;
+    font-weight: 600;
+    text-align: center;
 }
