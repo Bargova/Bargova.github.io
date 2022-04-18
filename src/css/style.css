@@ -129,19 +129,28 @@ nav{
     display: block;
     margin-top: 8px;
 }
-.What_can_i_do{
+.What_can_i_du{
     padding-top: 160px;
     text-align: center;
     float: left;
     margin-left: 410px;  
 }
-.What_can_i_do{
+.What_can_i_du{
     float: left;
-    margin-left: 61px;
+    margin-left: 51px;
     font-size: 16px;
     padding-right: 75px;
     font-size: 16px;
     color: #d07f27;
     font-weight: 600;
     text-align: center;
+}
+.What_can_i_du p{
+    float: left;
+    font-size: 14px;
+    width: 205px;
+    text-align: center;
+    color:#3f495a;
+    margin-right: 42px;
+    
 }
