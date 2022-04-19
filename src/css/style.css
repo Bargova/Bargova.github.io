@@ -112,7 +112,7 @@ nav{
 }
 .main_works{
     margin-top: 97px; 
-    height: 520px;
+    height: 400px;
     background: url(../img/bg_Fon1.jpg) center 100%/auto no-repeat; 
 }
 .main_works h2{
@@ -124,20 +124,19 @@ nav{
     color: #263244;
 }
 .Cherta{
-    height: 120px;
     color: #3f495a;
     display: block;
     margin-top: 8px;
 }
 .What_can_i_du{
-    padding-top: 160px;
-    text-align: center;
+    padding-top: 88px;
     float: left;
     margin-left: 410px;  
 }
 .What_can_i_du{
     float: left;
-    margin-left: 51px;
+    width: 230px;
+    margin-left: 65px;
     font-size: 16px;
     padding-right: 75px;
     font-size: 16px;
