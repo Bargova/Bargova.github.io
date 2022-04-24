@@ -138,8 +138,6 @@ nav{
     width: 230px;
     margin-left: 65px;
     font-size: 16px;
-    padding-right: 75px;
-    font-size: 16px;
     color: #d07f27;
     font-weight: 600;
     text-align: center;   
@@ -152,12 +150,27 @@ nav{
 
 .What_can_i_du h4{
     margin-top: 15px;
-    text-align: center;
     float: left;
     font-size: 14px;
-    width: 205px;
     text-align: center;
-    color:#3f495a;
-    margin-right: 42px;
-    
+    color:#3f495a;  
+}
+.main_case h2{
+   margin-top: 70px;
+    text-align: center;
+    font-weight: 600;
+    color: #263244;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+.Cherta{
+    text-align: center;
+    color: #3f495a;
+    display: block;
+    margin-top: 10px;
+}  
+.main_case{
+    margin-top: 76px;
+    height: 805px;
+    background: url(../img/bg_Fon3.jpg) center 100%/auto no-repeat;
 }
