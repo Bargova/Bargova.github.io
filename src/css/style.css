@@ -179,9 +179,16 @@ nav{
     text-align: left;
 }
 
-.main_case{
-    height: 80px;
+.caselmg{
     width: 100%;
     margin-top: 76px;
     text-align: center;
+}
+.main_case h3{
+   margin-top: 70px;
+    text-align: center;
+    font-weight: 600;
+    color: #263244;
+    font-size: 23px;
+    text-transform: uppercase;
 }
