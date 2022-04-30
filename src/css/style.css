@@ -156,7 +156,7 @@ nav{
     color:#3f495a;  
 }
 .main_case h2{
-   margin-top: 70px;
+    margin-top: 70px;
     text-align: center;
     font-weight: 600;
     color: #263244;
@@ -185,11 +185,15 @@ nav{
     margin: 0 auto;
     text-align: center;  
 }
+.client{
+    float: left;
+    width: 300px;  
+}
 .client h3{
-   margin-top: 70px;
+    margin-top: 70px;
     text-align: center;
     font-weight: 600;
     color: #263244;
     font-size: 23px;
-    text-transform: uppercase;
+    text-transform: uppercase;  
 }
