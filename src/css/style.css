@@ -197,3 +197,22 @@ nav{
     font-size: 23px;
     text-transform: uppercase;  
 }
+.List{
+    float: left;
+    height: 250px;
+    text-align: center;
+    font-weight: 400;
+    color: #263244;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.List h5{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 12px;
+    padding: 9px 11px 10px 120px;
+    color: #79818d; 
+    text-align: left;
+}
