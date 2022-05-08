@@ -187,12 +187,14 @@ nav{
 }
 .client{
     float: left;
-    margin-left: 25px;
-    width: 600px; 
-    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10px;
+    width: 20%; 
+    text-align: left;
 }
 .client h3{
-    text-align: center;
+    text-align: left;
     font-weight: 600;
     color: #263244;
     font-size: 20px; 
@@ -207,19 +209,21 @@ nav{
     text-transform: uppercase;
 }
 .List h3{
-    text-align: center;
-    font-weight: 400;
+    text-align: left;
+    font-weight: 80%;
+    margin-right: 15%;
+    margin-top: 20px;
     color: #263244;
     font-size: 13px;
 }
 .List h5{
     width: 600px;
+    text-align: left;
     height: 250px;
-    text-align: center;
-    margin: 0 auto;
+    margin-right: 15%;
     margin-top: 10px;
     font-size: 9px;
-    padding: 9px 11px 10px 120px;
+    padding: 5px 10px 8px 8px;
     color: #79818d; 
     
 }
