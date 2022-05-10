@@ -199,6 +199,20 @@ nav{
     color: #263244;
     font-size: 20px; 
 }
+.website{
+   float: left;
+    margin-left: 1%;
+    margin-right: 15%;
+    margin-top: 10px;
+    width: 20%; 
+    text-align: left;  
+}
+.website h3{
+    text-align: left;
+    font-weight: 600;
+    color: #263244;
+    font-size: 20px; 
+}
 .List{
     float: left;
     height: 250px;
@@ -223,7 +237,6 @@ nav{
     margin-right: 15%;
     margin-top: 10px;
     font-size: 9px;
-    padding: 5px 10px 8px 8px;
     color: #79818d; 
     
 }
