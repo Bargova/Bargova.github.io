@@ -187,8 +187,8 @@ nav{
 }
 .client{
     float: left;
-    margin-left: 14%;
-    margin-right:14%;
+    margin-left: 13%;
+    margin-right:13%;
     margin-top: 10px;
     width: 20%; 
     text-align: left;
@@ -214,7 +214,7 @@ nav{
     font-size: 20px; 
 }
 .List{
-    width: 49%;
+    width: 48%;
     float: left;
     height: 250px;
     text-align: center;
@@ -237,17 +237,19 @@ nav{
     margin-right: 15%;
     margin-top: 10px;
     font-size: 9px;
-    color: #79818d;     
+    color: #79818d; 
+}
+.botton_keys{
+  height: 350px;  
 }
 .myinput2{
     height: 30px;
     text-align: center;
-    font-weight: 400;
-    color: #fff;
+    font-weight: 400;  
     border: 1px solid #6d7682;
     background: #88ffbb;
     border-radius: 2px;
-    color: #6d7682;
+    color: #fff;
     font-size: 12px;
     padding: 0px 20px;
     margin: 20px 4px 0px 4px;
