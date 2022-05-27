@@ -254,3 +254,12 @@ nav{
     padding: 0px 20px;
     margin: 20px 4px 0px 4px;
     }
+.main_payment h2{
+    height: 35px;
+    margin-top: 70px;
+    text-align: center;
+    font-weight: 600;
+    color: #263244;
+    font-size: 20px;
+    text-transform: uppercase;
+}
