@@ -240,7 +240,7 @@ nav{
     color: #79818d; 
 }
 .botton_keys{
-  height: 350px;  
+  height: 200px;  
 }
 .myinput2{
     height: 30px;
@@ -255,11 +255,17 @@ nav{
     margin: 20px 4px 0px 4px;
     }
 .main_payment h2{
-    height: 35px;
-    margin-top: 70px;
     text-align: center;
     font-weight: 600;
     color: #263244;
-    font-size: 20px;
-    text-transform: uppercase;
+    font-size: 23px;
+    text-transform: none ;
 }
+.main_payment h3{
+    height: 30px;
+    margin-left: 225px;
+    font-weight: 600;
+    color: #263244;
+    font-size: 13px;
+    text-transform: none ;
+    }
